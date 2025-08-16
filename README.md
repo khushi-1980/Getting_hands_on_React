@@ -15,5 +15,4 @@ Instead of just reading tutorials, I’m getting hands-on and creating something
 
 ---
 
-## 🗂️ Project Structure  
-Each mini project lives in its own folder:  
+## 🗂️ Projects added according to the Description.
